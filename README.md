@@ -14,7 +14,7 @@
     3. 判斷32後的3個byte的值是否為0
     4. 若為0則再往後4個byte即為rec size
     5. 若rec size的第一項不為0代表其為正確的rec size
-ˋˋˋpy
+```py
 f = open('files\\Abdomen.ebm','rb').read()
 a = []
 b = [-1,-1,-1]
@@ -37,7 +37,7 @@ while cur < 36000 and readData == False:
             print("rec size:",s[0],s[1],s[2],s[3])
             if s[0] != 0:
                 readData = True
-ˋˋˋ      
+``` 
 
 ### 解析主要Data
     1. 在rec size 後一次讀取7200個byte
