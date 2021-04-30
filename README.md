@@ -86,16 +86,16 @@ plt.show()
 
 
 Abdomen.ebm
-<img src="https://github.com/Huang-Che-Yu/Sleep-Apnea/blob/main/Waveform/Abdomen.png" width="200">
+<img src="https://github.com/Huang-Che-Yu/Sleep-Apnea/blob/main/Waveform/Abdomen.png" width="400">
 
 C3.ebm
-<img src="https://github.com/Huang-Che-Yu/Sleep-Apnea/blob/main/Waveform/C3.png" width="200">
+<img src="https://github.com/Huang-Che-Yu/Sleep-Apnea/blob/main/Waveform/C3.png" width="400">
 
 Flattening.ebm
-<img src="https://github.com/Huang-Che-Yu/Sleep-Apnea/blob/main/Waveform/Flattening.png" width="200">
+<img src="https://github.com/Huang-Che-Yu/Sleep-Apnea/blob/main/Waveform/Flattening.png" width="400">
 
 XFlow_DR.ebm
-<img src="https://github.com/Huang-Che-Yu/Sleep-Apnea/blob/main/Waveform/XFlow_DR.png" width="200">
+<img src="https://github.com/Huang-Che-Yu/Sleep-Apnea/blob/main/Waveform/XFlow_DR.png" width="400">
 
 
   
