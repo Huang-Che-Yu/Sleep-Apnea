@@ -84,18 +84,18 @@ plt.show()
 
 ## 輸出結果
 
-<img src="https://github.com/Huang-Che-Yu/Sleep-Apnea/blob/main/Waveform/Abdomen.png" width="200">
+
 Abdomen.ebm
-![image](https://github.com/Huang-Che-Yu/Sleep-Apnea/blob/main/Waveform/Abdomen.png)
+<img src="https://github.com/Huang-Che-Yu/Sleep-Apnea/blob/main/Waveform/Abdomen.png" width="200">
 
 C3.ebm
-![image](https://github.com/Huang-Che-Yu/Sleep-Apnea/blob/main/Waveform/C3.png)
+<img src="https://github.com/Huang-Che-Yu/Sleep-Apnea/blob/main/Waveform/C3.png" width="200">
 
 Flattening.ebm
-![image](https://github.com/Huang-Che-Yu/Sleep-Apnea/blob/main/Waveform/Flattening.png)
+<img src="https://github.com/Huang-Che-Yu/Sleep-Apnea/blob/main/Waveform/Flattening.png" width="200">
 
 XFlow_DR.ebm
-![image](https://github.com/Huang-Che-Yu/Sleep-Apnea/blob/main/Waveform/XFlow_DR.png)
+<img src="https://github.com/Huang-Che-Yu/Sleep-Apnea/blob/main/Waveform/XFlow_DR.png" width="200">
 
 
   
