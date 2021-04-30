@@ -85,7 +85,7 @@ plt.show()
 ## 輸出結果
 
 Abdomen.ebm
-![image](https://github.com/Huang-Che-Yu/Sleep-Apnea/blob/main/Waveform/Abdomen.png)
+![image](https://github.com/Huang-Che-Yu/Sleep-Apnea/blob/main/Waveform/Abdomen.png | width=200)
 
 C3.ebm
 ![image](https://github.com/Huang-Che-Yu/Sleep-Apnea/blob/main/Waveform/C3.png)
@@ -96,7 +96,7 @@ Flattening.ebm
 XFlow_DR.ebm
 ![image](https://github.com/Huang-Che-Yu/Sleep-Apnea/blob/main/Waveform/XFlow_DR.png)
 
-<img src="https://github.com/Huang-Che-Yu/Sleep-Apnea/blob/main/Waveform/XFlow_DR" height="100">
+
   
 ## 解析歷程
   
