@@ -26,7 +26,7 @@
 ## 輸出結果
 
 Abdomen.ebm
-![image](https://github.com/Huang-Che-Yu/Sleep-Apnea/blob/main/Waveform/Abdomen.png = 300 * 200)
+![image](https://github.com/Huang-Che-Yu/Sleep-Apnea/blob/main/Waveform/Abdomen.png = 300x200)
   
 ## 解析歷程
   
