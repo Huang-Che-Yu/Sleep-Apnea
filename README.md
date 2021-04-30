@@ -47,6 +47,19 @@ while cur < 36000 and readData == False:
     5. 將換算後的值加入陣列並重複2. ~ 3.。
     6. 將陣列輸出為波形圖
 
+```py
+cur += 4
+n = int(input())
+for i in range(0,n*3600,2):
+    if f[cur+i+1] > 128:
+        t = f[cur+i]-256*(256-f[cur+i+1])
+    else:
+        t = f[cur+i]+256*f[cur+i+1]
+    a.append(t)
+plt.plot(a)
+plt.show()
+```
+
 ## 輸出結果
 
 Abdomen.ebm
