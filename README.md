@@ -58,6 +58,17 @@ while cur < 36000 and readData == False:
     5. 將換算後的值加入陣列並重複2. ~ 3.。
     6. 將陣列輸出為波形圖
 
+範例：
+    
+    77  #第一個byte
+    1   #第二個byte
+    3   #第一個byte
+    255 #第二個byte
+    會轉為：
+    77+256 = 333
+    3-256 = -253
+
+
 ```py
 cur += 4
 n = int(input())
@@ -75,6 +86,15 @@ plt.show()
 
 Abdomen.ebm
 ![image](https://github.com/Huang-Che-Yu/Sleep-Apnea/blob/main/Waveform/Abdomen.png)
+
+C3.ebm
+![image](https://github.com/Huang-Che-Yu/Sleep-Apnea/blob/main/Waveform/C3.png)
+
+Flattening.ebm
+![image](https://github.com/Huang-Che-Yu/Sleep-Apnea/blob/main/Waveform/Flattening.png)
+
+XFlow_DR.ebm
+![image](https://github.com/Huang-Che-Yu/Sleep-Apnea/blob/main/Waveform/XFlow_DR.png)
   
 ## 解析歷程
   
