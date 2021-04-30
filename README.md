@@ -24,6 +24,9 @@
     6. 將陣列輸出為波形圖
 
 ## 輸出結果
+
+Abdomen.ebm
+![image](https://github.com/Huang-Che-Yu/Sleep-Apnea/blob/main/Waveform/Abdomen.png)
   
 ## 解析歷程
   
