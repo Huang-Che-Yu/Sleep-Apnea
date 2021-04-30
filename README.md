@@ -14,6 +14,30 @@
     3. 判斷32後的3個byte的值是否為0
     4. 若為0則再往後4個byte即為rec size
     5. 若rec size的第一項不為0代表其為正確的rec size
+ˋˋˋpy
+f = open('files\\Abdomen.ebm','rb').read()
+a = []
+b = [-1,-1,-1]
+s = [-1,-1,-1,-1]
+cur = 0
+readData = False
+while cur < 36000 and readData == False:
+    cur += 1
+    if f[cur-1] == 32:
+        b[0] = f[cur]
+        b[1] = f[cur+1]
+        b[2] = f[cur+2]
+        cur += 3
+        print(cur,32)
+        if b == [0,0,0]:
+            s[0] = f[cur]
+            s[1] = f[cur+1]
+            s[2] = f[cur+2]
+            s[3] = f[cur+3]
+            print("rec size:",s[0],s[1],s[2],s[3])
+            if s[0] != 0:
+                readData = True
+ˋˋˋ      
 
 ### 解析主要Data
     1. 在rec size 後一次讀取7200個byte
@@ -26,7 +50,7 @@
 ## 輸出結果
 
 Abdomen.ebm
-![image](https://github.com/Huang-Che-Yu/Sleep-Apnea/blob/main/Waveform/Abdomen.png = 300x200)
+![image](https://github.com/Huang-Che-Yu/Sleep-Apnea/blob/main/Waveform/Abdomen.png)
   
 ## 解析歷程
   
