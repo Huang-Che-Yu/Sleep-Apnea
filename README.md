@@ -14,6 +14,16 @@
     3. 判斷32後的3個byte的值是否為0
     4. 若為0則再往後4個byte即為rec size
     5. 若rec size的第一項不為0代表其為正確的rec size
+
+    範例：
+    9 32
+    14 32
+    597 32
+    rec size 0 0 0 0
+    1613 32
+    1917 32
+    rec size: 180 5 0 0
+    
 ```py
 f = open('files\\Abdomen.ebm','rb').read()
 a = []
