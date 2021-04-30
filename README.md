@@ -84,6 +84,7 @@ plt.show()
 
 ## 輸出結果
 
+<img src="https://github.com/Huang-Che-Yu/Sleep-Apnea/blob/main/Waveform/Abdomen.png" width="48">
 Abdomen.ebm
 ![image](https://github.com/Huang-Che-Yu/Sleep-Apnea/blob/main/Waveform/Abdomen.png | width=200)
 
