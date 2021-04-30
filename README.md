@@ -84,9 +84,9 @@ plt.show()
 
 ## 輸出結果
 
-<img src="https://github.com/Huang-Che-Yu/Sleep-Apnea/blob/main/Waveform/Abdomen.png" width="48">
+<img src="https://github.com/Huang-Che-Yu/Sleep-Apnea/blob/main/Waveform/Abdomen.png" width="200">
 Abdomen.ebm
-![image](https://github.com/Huang-Che-Yu/Sleep-Apnea/blob/main/Waveform/Abdomen.png | width=200)
+![image](https://github.com/Huang-Che-Yu/Sleep-Apnea/blob/main/Waveform/Abdomen.png)
 
 C3.ebm
 ![image](https://github.com/Huang-Che-Yu/Sleep-Apnea/blob/main/Waveform/C3.png)
