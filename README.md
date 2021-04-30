@@ -95,6 +95,8 @@ Flattening.ebm
 
 XFlow_DR.ebm
 ![image](https://github.com/Huang-Che-Yu/Sleep-Apnea/blob/main/Waveform/XFlow_DR.png)
+
+<img src="https://github.com/Huang-Che-Yu/Sleep-Apnea/blob/main/Waveform/XFlow_DR" height="100">
   
 ## 解析歷程
   
